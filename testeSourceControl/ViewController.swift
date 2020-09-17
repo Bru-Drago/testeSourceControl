@@ -10,6 +10,9 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var teste = 1
+    var github = "será que commitou?"
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
