@@ -12,6 +12,8 @@ class ViewController: UIViewController {
 
     var teste = 1
     var github = "será que commitou?"
+    var teste1 = 2
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
